@@ -1,2 +1,2 @@
-# Philippine-Junior-Data-Science-Challenge.
+# Philippine-Junior-Data-Science-Challenge
 Our entry for PJDSC
